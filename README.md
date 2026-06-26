@@ -38,5 +38,13 @@ streamlit run dashboard.py
 - Streamlit
 - hashlib, json, datetime (standard library)
 
-## 📊 Sample Output
+## 📊 Screenshots
 
+### Terminal Pipeline Output
+![Terminal Output](terminal_output.png.png)
+
+### Normal Dashboard
+![Dashboard](dashboard_normal.png.png)
+
+### Hacker Attack Detected
+![Attack](dashboard_attack.png.png)
